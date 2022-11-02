@@ -10,7 +10,7 @@
    - [Configuring networking](https://www.raspberrypi.com/documentation/computers/configuration.html#wireless-networking-command-line)
    - [Config.txt](https://www.raspberrypi.com/documentation/computers/config_txt.html#what-is-config-txt)
 
-* [Command Cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) ([one of many](https://lmgtfy.app/?q=raspberry+pi+commands+cheat+sheet))
+* [Command Cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) ([one of many](https://www.google.com/search?q=raspberry+pi+commands+cheat+sheet))
 
 ## Pi Hole
 
